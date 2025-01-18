@@ -1,0 +1,362 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "promise",
+    "displayName": "Promise",
+    "profession": "Founder/AI Engineer",
+    "location": "Nairobi, Kenya",
+    "pronouns": null,
+    "byline": "Founder/AI Engineer in Nairobi, Kenya",
+    "website": "https://mployee.ai",
+    "websiteURL": "https://mployee.ai",
+    "about": null,
+    "status": {
+      "text": null,
+      "emoji": null,
+      "timestamp": null
+    },
+    "sectionOrder": [
+      "Projects",
+      "Work Experience",
+      "Side Projects",
+      "Exhibitions",
+      "Speaking",
+      "Writing",
+      "Awards",
+      "Features",
+      "Volunteering",
+      "Education",
+      "Certifications",
+      "Contact",
+      "Teams"
+    ]
+  },
+  "projects": [
+    {
+      "id": "sgP9f4IuTTDH24ihfahv",
+      "year": "2025",
+      "heading": "Mployee AI",
+      "url": "https://mployee.ai",
+      "collaborators": [],
+      "description": "Mployee AI is an AI Agent platform.\\\nIt enables you create AI agents that are designed to handle various tasks, from administrative duties to customer service, allowing business owners to focus on growth and innovation without the overhead of a traditional workforce.",
+      "attachments": [],
+      "type": "project",
+      "title": "Mployee AI",
+      "company": ""
+    },
+    {
+      "id": "Hh2dirub2RLN5WSFDnvQ",
+      "year": "2024",
+      "heading": "fela.ai",
+      "url": "https://fela.ai",
+      "collaborators": [],
+      "description": "fela.ai is a sports prediction platform that generates predictions to sports using AI",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2932,
+          "height": 1870,
+          "url": "/content/media/felaai-1.png"
+        },
+        {
+          "type": "image",
+          "width": 2948,
+          "height": 1870,
+          "url": "/content/media/felaai-2.png"
+        },
+        {
+          "type": "image",
+          "width": 2948,
+          "height": 1870,
+          "url": "/content/media/felaai-3.png"
+        }
+      ],
+      "type": "project",
+      "title": "fela.ai",
+      "company": ""
+    }
+  ],
+  "sideProjects": [
+    {
+      "id": "755L8yj29qBbFsUm2VbW",
+      "year": "2024",
+      "heading": "Vidiyo.ai at Vidiyo AI",
+      "url": "https://vidiyo.ai",
+      "collaborators": [],
+      "description": "Vidiyo.ai enables brands to effortlessly generate high-quality videos in minutes with our AI-driven content creators. Automate your brand’s content production and stay ahead with engaging, professional videos—no editing skills required.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2948,
+          "height": 1834,
+          "url": "/content/media/Vidiyoai-at-Vidiyo-AI.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Vidiyo.ai",
+      "company": "Vidiyo AI"
+    }
+  ],
+  "exhibitions": [],
+  "talks": [],
+  "writing": [],
+  "awards": [],
+  "features": [],
+  "workExperience": [
+    {
+      "id": "hx4xKsMFDXnCBzHuayfd",
+      "year": "2022 — Now",
+      "heading": "Senior AI Engineer at Siena AI",
+      "url": "https://siena.cx",
+      "collaborators": [],
+      "description": "The first Empathic AI customer service agent that's almost human.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2952,
+          "height": 1746,
+          "url": "/content/media/Senior-AI-Engineer-at-Siena-AI.png"
+        }
+      ],
+      "type": "workExperience",
+      "title": "Senior AI Engineer",
+      "company": "Siena AI",
+      "location": "San Francisco, California, United States"
+    },
+    {
+      "id": "Cgpng7kPqviAHpKaCLNa",
+      "year": "2022 — 2022",
+      "heading": "Senior Software Engineer at Cartloop",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Senior Software Engineer",
+      "company": "Cartloop",
+      "location": "Romania, Bucharest"
+    },
+    {
+      "id": "Fx0S9T1TRDK41SBwN7Fa",
+      "year": "2021 — 2022",
+      "heading": "Lead Software Engineer at Emergency Response Africa",
+      "url": "https://emergencyresponseafrica.com/",
+      "collaborators": [],
+      "description": "Transforming emergency medical response in Africa by integrating training, technology, and transportation.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2948,
+          "height": 1834,
+          "url": "/content/media/Lead-Software-Engineer-at-Emergency-Response-Africa.png"
+        }
+      ],
+      "type": "workExperience",
+      "title": "Lead Software Engineer",
+      "company": "Emergency Response Africa",
+      "location": "Lagos, Nigeria"
+    }
+  ],
+  "volunteering": [],
+  "education": [],
+  "certifications": [],
+  "contact": [
+    {
+      "id": "GcKsG1wGPU7hoGSseN31",
+      "platform": "Email",
+      "handle": "promise@mployee.ai",
+      "url": "mailto:promise@mployee.ai"
+    },
+    {
+      "id": "Um1oOcDCKAN5Jw0Ask3t",
+      "platform": "X",
+      "handle": "6ones_",
+      "url": "https://x.com/6ones_"
+    },
+    {
+      "id": "78oSvXLWAZyvMwCLwYdo",
+      "platform": "GitHub",
+      "handle": "chidindu-ogbonna",
+      "url": "https://github.com/chidindu-ogbonna"
+    },
+    {
+      "id": "fY16DmAuhSyWPcBKKm1J",
+      "platform": "LinkedIn",
+      "handle": "promise-ogbonna",
+      "url": "https://linkedin.com/in/promise-ogbonna"
+    },
+    {
+      "id": "pbfcNaHUDVKJ6VBbz5yc",
+      "platform": "Email",
+      "handle": "promise.bones@gmail.com",
+      "url": "mailto:promise.bones@gmail.com"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Projects",
+      "items": [
+        {
+          "id": "sgP9f4IuTTDH24ihfahv",
+          "year": "2025",
+          "heading": "Mployee AI",
+          "url": "https://mployee.ai",
+          "collaborators": [],
+          "description": "Mployee AI is an AI Agent platform.\\\nIt enables you create AI agents that are designed to handle various tasks, from administrative duties to customer service, allowing business owners to focus on growth and innovation without the overhead of a traditional workforce.",
+          "attachments": [],
+          "type": "project",
+          "title": "Mployee AI",
+          "company": ""
+        },
+        {
+          "id": "Hh2dirub2RLN5WSFDnvQ",
+          "year": "2024",
+          "heading": "fela.ai",
+          "url": "https://fela.ai",
+          "collaborators": [],
+          "description": "fela.ai is a sports prediction platform that generates predictions to sports using AI",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2932,
+              "height": 1870,
+              "url": "/content/media/felaai-1.png"
+            },
+            {
+              "type": "image",
+              "width": 2948,
+              "height": 1870,
+              "url": "/content/media/felaai-2.png"
+            },
+            {
+              "type": "image",
+              "width": 2948,
+              "height": 1870,
+              "url": "/content/media/felaai-3.png"
+            }
+          ],
+          "type": "project",
+          "title": "fela.ai",
+          "company": ""
+        }
+      ]
+    },
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "hx4xKsMFDXnCBzHuayfd",
+          "year": "2022 — Now",
+          "heading": "Senior AI Engineer at Siena AI",
+          "url": "https://siena.cx",
+          "collaborators": [],
+          "description": "The first Empathic AI customer service agent that's almost human.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2952,
+              "height": 1746,
+              "url": "/content/media/Senior-AI-Engineer-at-Siena-AI.png"
+            }
+          ],
+          "type": "workExperience",
+          "title": "Senior AI Engineer",
+          "company": "Siena AI",
+          "location": "San Francisco, California, United States"
+        },
+        {
+          "id": "Cgpng7kPqviAHpKaCLNa",
+          "year": "2022 — 2022",
+          "heading": "Senior Software Engineer at Cartloop",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Senior Software Engineer",
+          "company": "Cartloop",
+          "location": "Romania, Bucharest"
+        },
+        {
+          "id": "Fx0S9T1TRDK41SBwN7Fa",
+          "year": "2021 — 2022",
+          "heading": "Lead Software Engineer at Emergency Response Africa",
+          "url": "https://emergencyresponseafrica.com/",
+          "collaborators": [],
+          "description": "Transforming emergency medical response in Africa by integrating training, technology, and transportation.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2948,
+              "height": 1834,
+              "url": "/content/media/Lead-Software-Engineer-at-Emergency-Response-Africa.png"
+            }
+          ],
+          "type": "workExperience",
+          "title": "Lead Software Engineer",
+          "company": "Emergency Response Africa",
+          "location": "Lagos, Nigeria"
+        }
+      ]
+    },
+    {
+      "name": "Side Projects",
+      "items": [
+        {
+          "id": "755L8yj29qBbFsUm2VbW",
+          "year": "2024",
+          "heading": "Vidiyo.ai at Vidiyo AI",
+          "url": "https://vidiyo.ai",
+          "collaborators": [],
+          "description": "Vidiyo.ai enables brands to effortlessly generate high-quality videos in minutes with our AI-driven content creators. Automate your brand’s content production and stay ahead with engaging, professional videos—no editing skills required.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2948,
+              "height": 1834,
+              "url": "/content/media/Vidiyoai-at-Vidiyo-AI.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Vidiyo.ai",
+          "company": "Vidiyo AI"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "GcKsG1wGPU7hoGSseN31",
+          "platform": "Email",
+          "handle": "promise@mployee.ai",
+          "url": "mailto:promise@mployee.ai"
+        },
+        {
+          "id": "Um1oOcDCKAN5Jw0Ask3t",
+          "platform": "X",
+          "handle": "6ones_",
+          "url": "https://x.com/6ones_"
+        },
+        {
+          "id": "78oSvXLWAZyvMwCLwYdo",
+          "platform": "GitHub",
+          "handle": "chidindu-ogbonna",
+          "url": "https://github.com/chidindu-ogbonna"
+        },
+        {
+          "id": "fY16DmAuhSyWPcBKKm1J",
+          "platform": "LinkedIn",
+          "handle": "promise-ogbonna",
+          "url": "https://linkedin.com/in/promise-ogbonna"
+        },
+        {
+          "id": "pbfcNaHUDVKJ6VBbz5yc",
+          "platform": "Email",
+          "handle": "promise.bones@gmail.com",
+          "url": "mailto:promise.bones@gmail.com"
+        }
+      ]
+    }
+  ]
+}
