@@ -3,12 +3,12 @@
     "profilePhoto": "/content/media/profilePhoto.jpg",
     "username": "promise",
     "displayName": "Promise",
-    "profession": "Founder/AI Engineer",
+    "profession": "Founder & AI Engineer",
     "location": "Nairobi, Kenya",
     "pronouns": null,
-    "byline": "Founder/AI Engineer in Nairobi, Kenya",
-    "website": "https://mployee.ai",
-    "websiteURL": "https://mployee.ai",
+    "byline": "Founder & AI Engineer based in Nairobi, Kenya",
+    "website": "https://ipromise.live",
+    "websiteURL": "https://ipromise.live",
     "about": null,
     "status": {
       "text": null,
@@ -246,7 +246,7 @@
       "items": [
         {
           "id": "hx4xKsMFDXnCBzHuayfd",
-          "year": "2022 — Now",
+          "year": "2023 — Now",
           "heading": "Senior AI Engineer at Siena AI",
           "url": "https://siena.cx",
           "collaborators": [],
@@ -266,7 +266,7 @@
         },
         {
           "id": "Cgpng7kPqviAHpKaCLNa",
-          "year": "2022 — 2022",
+          "year": "2022 — 2023",
           "heading": "Senior Software Engineer at Cartloop",
           "url": null,
           "collaborators": [],
