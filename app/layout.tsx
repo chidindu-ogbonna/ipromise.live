@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
-import { Inter } from 'next/font/google'
-import { promises as fs } from 'fs';
+import { Inter, Space_Grotesk } from 'next/font/google'
 import "./globals.css";
 
 const inter = Inter({
@@ -8,12 +7,15 @@ const inter = Inter({
   variable: '--font-inter',
 })
 
+const spaceGrotesk = Space_Grotesk({
+  subsets: ['latin'],
+  variable: '--font-space-grotesk',
+})
+
 export async function generateMetadata(): Promise<Metadata> {
-  const file = await fs.readFile(process.cwd() + '/public/content/profileData.json', 'utf8');
-  const cv = JSON.parse(file);
   return {
-    title: cv.general.displayName,
-    description: cv.general.byline || '',
+    title: 'ProCo - Intelligence Re-engineered',
+    description: 'Empowering the next generation of digital decisions with fela.ai. Where predictive modeling meets real-time processing.',
   };
 }
 
@@ -24,7 +26,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${inter.variable} font-sans`}>
+      <body className={`${inter.variable} ${spaceGrotesk.variable} font-sans`}>
         {children}
       </body>
     </html>
